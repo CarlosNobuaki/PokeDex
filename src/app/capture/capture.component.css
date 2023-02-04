@@ -1,0 +1,12 @@
+.list-group {
+  display: grid !important;
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap: 1em;
+}
+
+.list-group-item {
+  background: #F7F7F7;
+  padding: 1em;
+  text-align: center;
+}
+
